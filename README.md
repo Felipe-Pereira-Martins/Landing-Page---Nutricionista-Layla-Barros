@@ -3,9 +3,7 @@
 Projeto autoral de landing page institucional desenvolvido para a nutricionista **Layla Barros**.  
 Tecnologias: PHP, Bootstrap, HTML5, CSS3 e jQuery.
 
-![Print da Landing Page](./images/readme-preview.jpg) <!-- Substitua por um print real -->
 
----
 
 ## ✨ Funcionalidades
 
