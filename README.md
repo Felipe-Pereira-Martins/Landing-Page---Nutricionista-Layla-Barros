@@ -1,7 +1,3 @@
-Claro! Aqui vai um **README.md** mais profissional, detalhado, com organização visual e todos os avisos de uso bem destacados. Adicionei emoji, separei tópicos e deixei ainda mais convidativo para consulta ou portfólio:
-
----
-
 # Landing Page - Layla Barros Nutricionista
 
 Projeto **autoral** de landing page institucional desenvolvido para a nutricionista **Layla Barros**.
