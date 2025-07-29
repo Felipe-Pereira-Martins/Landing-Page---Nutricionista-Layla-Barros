@@ -9,6 +9,7 @@ Tecnologias principais: **PHP**, **Bootstrap**, **HTML5**, **CSS3** e **jQuery**
 ## 🖼️ Screenshots
 
 <div align="center">
+
   <img width="100%" src="https://github.com/user-attachments/assets/407eebd3-a7b5-408a-a183-01863ad8afc7" alt="Screenshot 1"/>
   <img width="100%" src="https://github.com/user-attachments/assets/0542134c-9208-46bf-8d1a-4332061b1d61" alt="Screenshot 2"/>
   <img width="100%" src="https://github.com/user-attachments/assets/7dedfdd6-2a41-4f01-bc90-46589586da88" alt="Screenshot 3"/>
@@ -16,6 +17,8 @@ Tecnologias principais: **PHP**, **Bootstrap**, **HTML5**, **CSS3** e **jQuery**
   <img width="100%" src="https://github.com/user-attachments/assets/6b2fcca2-2f30-43b7-ac64-9aeb245ecc2b" alt="Screenshot 5"/>
   <img width="100%" src="https://github.com/user-attachments/assets/23e9189d-c9f4-4b91-9448-fe18f8a7593a" alt="Screenshot 6"/>
   <img width="100%" src="https://github.com/user-attachments/assets/e032cecb-ce3c-4b72-a406-1afb11f1c9e6" alt="Screenshot 7"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/ab11f4b7-fba2-422c-b79d-fd2c319058ea" alt="Screenshot 8"/>
+
 </div>
 
 ---
