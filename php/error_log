@@ -1,0 +1,109 @@
+[17-Jun-2025 05:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 27
+[18-Jun-2025 07:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 28
+[18-Jun-2025 07:33:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 28
+[18-Jun-2025 07:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 28
+[18-Jun-2025 07:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 37
+[18-Jun-2025 08:14:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:53 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:55 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:56 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:14:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:15:00 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:15:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:15:01 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:15:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:35 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:36 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:37 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:37 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:38 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:44 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:45 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:32:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 5
+[18-Jun-2025 08:35:47 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:35:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:46:48 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:46:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:46:49 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:46:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:50:29 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 08:50:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 8
+[18-Jun-2025 05:51:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::isSMTP() in /home/t3tu1zb6/public_html/nutricionista/php/contact.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/t3tu1zb6/public_html/nutricionista/php/contact.php on line 27

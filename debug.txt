@@ -1,0 +1,47 @@
+=============================
+Formulário chegou em: 2025-06-18 07:37:59
+Conteúdo de $_POST:
+Array
+(
+    [names] => Felipe Pereira Martins
+    [email] => martinsfelipe2013@gmail.com
+    [phone] => (22) 22222-2222
+    [message] => shfohfoknfoandf
+)
+
+=============================
+Formulário chegou em: 2025-06-18 07:38:22
+Conteúdo de $_POST:
+Array
+(
+)
+
+=============================
+Formulário chegou em: 2025-06-18 07:38:57
+Conteúdo de $_POST:
+Array
+(
+)
+
+=============================
+Formulário chegou em: 2025-06-18 07:40:42
+Conteúdo de $_POST:
+Array
+(
+    [names] => Felipe Pereira Martins
+    [email] => martinsfelipe2013@gmail.com
+    [phone] => (22) 22222-2222
+    [message] => ijbhgyugyukbuyg
+)
+
+=============================
+Formulário chegou em: 2025-06-18 07:47:05
+Conteúdo de $_POST:
+Array
+(
+    [contact_names] => Felipe 
+    [contact_email] => martinsfelipe2013@gmail.com
+    [contact_phone] => (22) 22222-2222
+    [contact_message] => onafaa 
+)
+
